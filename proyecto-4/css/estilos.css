@@ -1,0 +1,13 @@
+nav ul li a.activo{
+    color: greenyellow;
+}
+
+header {
+    background: wheat;
+    font-family:'Playfair Display', serif;
+    padding: 5px 20px; 
+} 
+
+
+
+
